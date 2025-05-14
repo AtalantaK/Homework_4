@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Homework_4 {
+public class Homework_4_Conditions {
     public static void main(String[] args) {
         // Task 1
         System.out.print("Введите целое число: ");
